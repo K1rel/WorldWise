@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "44ec",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-05T09:34:47.267Z",
+      "notes": "",
+      "position": {
+        "lat": "40.41140480914068",
+        "lng": "-3.7010192871093754"
+      }
+    },
+    {
+      "id": "efa7",
+      "cityName": "Astana",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-07-05T09:35:30.374Z",
+      "notes": "",
+      "position": {
+        "lat": "51.11817889367673",
+        "lng": "71.39602661132814"
+      }
+    },
+    {
+      "id": "adc3",
+      "cityName": "Almodovar del Campo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-07T20:54:57.383Z",
+      "notes": "",
+      "position": {
+        "lat": "38.71980474264239",
+        "lng": "-4.504394531250001"
+      }
+    }
+  ]
+}
